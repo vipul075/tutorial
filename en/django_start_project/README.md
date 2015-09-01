@@ -132,4 +132,4 @@ Congratulations! You've just created your first website and run it using a web s
 
 ![It worked!](images/it_worked2.png)
 
-Ready for the next step? It's time to create some content!
+Ready for the next step? It's time to crleate some content!
